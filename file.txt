@@ -1,0 +1,223 @@
+MyType = "Generic"
+FauxType = "DBMS"
+Name = "random-test"
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+DaemonStartTime = 1153192799
+UpdateSequenceNumber = 1
+
+StartTime = 115799
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+FauxType = "DBMS"
+MyType = "sai"
+UpdateSequenceNumber = 1
+
+MyType = "checkeneric"
+FauxType = "DBM"
+Name = "random-est"
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<12.105.149.105:34000>"
+DaemonStartTime = 1153192799
+UpdateSequenceNuber = 1
+
+DaemonStartTime = 1153192799
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+Faux = "DBMS"
+MyType = "Generic"
+UpdateSequenceNumber = 1
+MyType = "Genercheckic"
+FauxType = "DBMS"
+Name = "random-test"
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+DaemonStartTime = 1153192799
+UpdateSequenceNumber = 1
+
+DaemonStartTime = 1153192799
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+FauxType = "DBMS"
+MyType = "Genecheckric"
+UpdateSequenceNumber = 1
+
+MyType = "Genecheckric"
+FauxType = "DBMS"
+Name = "random-test"
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+DaemonStartTime = 1153192799
+UpdateSequenceNumber = 1
+
+DaemonStartTime = 1153192799
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+FauxType = "DBMS"
+MyType = "Generic"
+UpdateSequenceNumber = 1
+
+MyType = "Generic"
+FauxType = "DBMS"
+Name = "random-test"
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+DaemonStartTime = 1153192799
+UpdateSequenceNumber = 1
+
+DaemonStartTime = 1153192799
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+FauxType = "DBMS"
+MyType = "Generic"
+UpdateSequenceNumber = 1
+
+MyType = "Generic"
+FauxType = "DBMS"
+Name = "random-test"
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+DaemonStartTime = 1153192799
+UpdateSequenceNumber = 1
+
+DaemonStartTime = 1153192799
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+FauxType = "DBMS"
+MyType = "Generic"
+UpdateSequenceNumber = 1
+
+MyType = "Generic"
+FauxType = "DBMS"
+Name = "random-test"
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+DaemonStartTime = 1153192799
+UpdateSequenceNumber = 1
+
+DaemonStartTime = 1153192799
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+FauxType = "DBMS"
+MyType = "Generic"
+UpdateSequenceNumber = 1
+
+MyType = "Generic"
+FauxType = "DBMS"
+Name = "random-test"
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+DaemonStartTime = 1153192799
+UpdateSequenceNumber = 1
+
+DaemonStartTime = 1153192799
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+FauxType = "DBMS"
+MyType = "Generic"
+UpdateSequenceNumber = 1
+
+MyType = "Generic"
+FauxType = "DBMS"
+Name = "random-test"
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+DaemonStartTime = 1153192799
+UpdateSequenceNumber = 1
+
+DaemonStartTime = 1153192799
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+FauxType = "DBMS"
+MyType = "Generic"
+UpdateSequenceNumber = 1
+
+MyType = "Generic"
+FauxType = "DBMS"
+Name = "random-test"
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+DaemonStartTime = 1153192799
+UpdateSequenceNumber = 1
+
+DaemonStartTime = 1153192799
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+FauxType = "DBMS"
+MyType = "Generic"
+UpdateSequenceNumber = 1
+
+MyType = "Generic"
+FauxType = "DBMS"
+Name = "random-test"
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+DaemonStartTime = 1153192799
+UpdateSequenceNumber = 1
+
+DaemonStartTime = 1153192799
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+FauxType = "DBMS"
+MyType = "Generic"
+UpdateSequenceNumber = 1
+
+MyType = "Generic"
+FauxType = "DBMS"
+Name = "random-test"
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+DaemonStartTime = 1153192799
+UpdateSequenceNumber = 1
+
+DaemonStartTime = 1153192799
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+FauxType = "DBMS"
+MyType = "Generic"
+UpdateSequenceNumber = 1
+
+MyType = "Generic"
+FauxType = "DBMS"
+Name = "random-test"
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+DaemonStartTime = 1153192799
+UpdateSequenceNumber = 1
+
+DaemonStartTime = 1153192799
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+FauxType = "DBMS"
+MyType = "Generic"
+UpdateSequenceNumber = 1
+
+MyType = "Generic"
+FauxType = "DBMS"
+Name = "random-test"
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+DaemonStartTime = 1153192799
+UpdateSequenceNumber = 1
+
+DaemonStartTime = 1153192799
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+FauxType = "DBMS"
+MyType = "Generic"
+UpdateSequenceNumber = 1
+
+MyType = "Generic"
+FauxType = "DBMS"
+Name = "random-test"
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+DaemonStartTime = 1153192799
+UpdateSequenceNumber = 1
+
+DaemonStartTime = 1153192799
+Machine = "f05.cs.wisc.edu"
+MyAddress = "<128.105.149.105:34000>"
+FauxType = "DBMS"
+MyType = "Generic"
+UpdateSequenceNumber = 1
